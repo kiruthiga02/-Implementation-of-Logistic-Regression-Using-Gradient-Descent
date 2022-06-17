@@ -17,7 +17,7 @@ To write a program to implement the the Logistic Regression Using Gradient Desce
 
 ## Program:
 ```
-/*
+
 Program to implement the the Logistic Regression Using Gradient Descent.
 Developed by: M.KIRUTHIGA 
 RegisterNumber: 212219040061 
@@ -66,7 +66,7 @@ plt.xlabel("AGE")
 plt.ylabel("ESTIMATED SALARY")
 plt.legend()
 plt.show()
-*/
+
 ```
 
 ## Output:
